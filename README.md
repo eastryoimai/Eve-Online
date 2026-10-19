@@ -230,4 +230,4 @@ EVE Online is offered as a full free version with all features and updates inclu
 Join the adventure in the vast universe of EVE Online and download your free copy today!
 
 ---
-**Last updated:** 2026-10-19 15:56:05 UTC
+**Last updated:** 2026-10-19 20:47:33 UTC
